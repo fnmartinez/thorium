@@ -1,6 +1,18 @@
+# Compiled code and directories
+targe/
 *.class
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Eclipse files
+.settings/
+.project
+.classpath
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
